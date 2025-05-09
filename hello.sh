@@ -1,2 +1,2 @@
-cal
-echo "Implementing Jenkins" > CI.txt
+echo "CI is implemented">new.txt
+df -Th
